@@ -29,7 +29,7 @@ minimal_mistakes_skin: "dirt"
 # settings for author profile
 author:
   name   : "Alex Olson"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "https://media.licdn.com/dms/image/C4E03AQEbA44NMCTf1w/profile-displayphoto-shrink_100_100/0/1643348780001?e=1703116800&v=beta&t=_SzrTTyfatBOe1UbCOXW6nm98dtkd4K9ILKkLrtKnS4"
   bio    : "I enjoy making websites."
   location: "DeKalb, IL"
   github : z1938118
