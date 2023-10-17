@@ -30,10 +30,10 @@ minimal_mistakes_skin: "dirt"
 author:
   name   : "Alex Olson"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I enjoy writing about things I'm interested in - mostly computing, math, physics, and software engineering."
+  bio    : "I enjoy making websites."
   location: "Ithaca, NY"
   github : z1938118
-  linkedin: Alex Olson
+  linkedin: 
   email  : alexolson247@gmail.com
 
 
