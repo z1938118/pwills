@@ -11,8 +11,6 @@ permalink: /about/
 <img src="{{ "/assets/images/routeburn.jpg" | absolute_url }}"
 width="50%" hspace="20" align="right">
 
---Welcome to my Website!
---This includes information about me.
 
 
 [1]: mailto: peter@pwills.com
